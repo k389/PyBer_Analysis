@@ -26,43 +26,43 @@ Analysis of PyBer in urban, suburban, and rural cities
 -	Determine the mean, median, and mode for the following.
 	-	The total number of rides for each city type.
 		-	Urban
-		-	The mean for the ride counts for urban trips is 24.62.
-		-	The median for the ride counts for urban trips is 24.0.
-		-	The mode for the ride counts for urban trips is ModeResult(mode=array([22], dtype=int64), count=array([7])).
-	-	Suburban
-		-	The mean for the ride counts for suburban trips is 17.36.
-		-	The median for the ride counts for suburban trips is 17.0.
-		-	The mode for the ride counts for suburban trips is ModeResult(mode=array([17], dtype=int64), count=array([7])).
-	-	Rural
-		-	The mean for the ride counts for rural trips is 6.94.
-		-	The median for the ride counts for rural trips is 6.0.
-		-	The mode for the ride counts for rural trips is ModeResult(mode=array([6], count=array([5])).
--	The average fares for each city type.
-	-	Urban
-		-	The mean fare price for urban trips is $24.53.
-		-	The median fare price for urban trips is $24.64.
-		-	The mode fare price for urban trips is ModeResult(mode=array([22.86]), count=array([5])).
-	-	Suburban
-		-	The mean fare price for suburban trips is $30.97.
-		-	The median fare price for suburban trips is $30.75.
-		-	The mode fare price for suburban trips is ModeResult(mode=array([17.99]), count=array([3])).
-	-	Rural
-		-	The mean fare price for rural trips is $34.62.
-		-	The median fare price for rural trips is $37.05.
-		-	The mode fare price for rural trips is ModeResult(mode=array([37.05]), count=array([2])).
--	The total number of drivers for each city type.
-	-	Urban
-		-	The mean for the drivers counts for urban trips is 36.68.
-		-	The median for the drivers counts for urban trips is 37.0.
-		-	The mode for the drivers counts for urban trips is ModeResult(mode=array([39], dtype=int64), count=array([86])).
-	-	Suburban
-		-	The mean for the drivers counts for suburban trips is 13.71.
-		-	The median for the drivers counts for suburban trips is 16.0.
-		-	The mode for the drivers counts for suburban trips is ModeResult(mode=array([20], dtype=int64), count=array([79])).
-	-	Rural
-		-	The mean for the drivers counts for rural trips is 4.30.
-		-	The median for the drivers counts for rural trips is 4.0.
-		-	The mode for the drivers counts for rural trips is ModeResult(mode=array([1], dtype=int64), count=array([32])).
+			-	The mean for the ride counts for urban trips is 24.62.
+			-	The median for the ride counts for urban trips is 24.0.
+			-	The mode for the ride counts for urban trips is ModeResult(mode=array([22], dtype=int64), count=array([7])).
+		-	Suburban
+			-	The mean for the ride counts for suburban trips is 17.36.
+			-	The median for the ride counts for suburban trips is 17.0.
+			-	The mode for the ride counts for suburban trips is ModeResult(mode=array([17], dtype=int64), count=array([7])).
+		-	Rural
+			-	The mean for the ride counts for rural trips is 6.94.
+			-	The median for the ride counts for rural trips is 6.0.
+			-	The mode for the ride counts for rural trips is ModeResult(mode=array([6], count=array([5])).
+	-	The average fares for each city type.
+		-	Urban
+			-	The mean fare price for urban trips is $24.53.
+			-	The median fare price for urban trips is $24.64.
+			-	The mode fare price for urban trips is ModeResult(mode=array([22.86]), count=array([5])).
+		-	Suburban
+			-	The mean fare price for suburban trips is $30.97.
+			-	The median fare price for suburban trips is $30.75.
+			-	The mode fare price for suburban trips is ModeResult(mode=array([17.99]), count=array([3])).
+		-	Rural
+			-	The mean fare price for rural trips is $34.62.
+			-	The median fare price for rural trips is $37.05.
+			-	The mode fare price for rural trips is ModeResult(mode=array([37.05]), count=array([2])).
+	-	The total number of drivers for each city type.
+		-	Urban
+			-	The mean for the drivers counts for urban trips is 36.68.
+			-	The median for the drivers counts for urban trips is 37.0.
+			-	The mode for the drivers counts for urban trips is ModeResult(mode=array([39], dtype=int64), count=array([86])).
+		-	Suburban
+			-	The mean for the drivers counts for suburban trips is 13.71.
+			-	The median for the drivers counts for suburban trips is 16.0.
+			-	The mode for the drivers counts for suburban trips is ModeResult(mode=array([20], dtype=int64), count=array([79])).
+		-	Rural
+			-	The mean for the drivers counts for rural trips is 4.30.
+			-	The median for the drivers counts for rural trips is 4.0.
+			-	The mode for the drivers counts for rural trips is ModeResult(mode=array([1], dtype=int64), count=array([32])).
 -	Create box-and-whisker plots that visualize each of the following to determine if there are any outliers. (The box-and-whisker plots are in analysis folder).
 	-	The number of rides for each city type.
 		-	The ‘Ride Count Data (2019)’ illustrates that there is one outlier in urban ride counts
